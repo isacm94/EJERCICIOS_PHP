@@ -1,0 +1,33 @@
+@CHARSET "ISO-8859-1";
+
+div {
+border: 1px solid #000;
+border-collapse: collapse;
+}
+#titulo {
+text-align: center;
+height: 50%; /*altura*/
+width: 100%;/*anchura*/
+background-color: blue;
+margin-bottom: 0%;
+}
+#menu {
+text-align: center;
+width: 25%;/*anchura*/
+height: 50%; /*altura*/
+background-color: green;
+margin-top: -10px;
+}
+
+#cuerpo {
+text-align: center;
+width: 75%;/*anchura*/
+height: 50%; /*altura*/
+background-color: red;
+margin-left: 25%;
+margin-top: -316px;
+}
+
+#info {
+font-size: 50;
+}

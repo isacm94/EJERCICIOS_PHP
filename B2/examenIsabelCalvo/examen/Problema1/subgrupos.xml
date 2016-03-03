@@ -1,0 +1,108 @@
+<DATA>
+	<ROW>
+		<id>6</id>
+		<cod>1</cod>
+		<nombre>Cuotas</nombre>
+	</ROW>
+	<ROW>
+		<id>7</id>
+		<cod>2</cod>
+		<nombre>Representatividad Sindical</nombre>
+	</ROW>
+
+	<ROW>
+		<id>8</id>
+		<cod>3</cod>
+		<nombre>Formacion (Cursos)</nombre>
+	</ROW>
+
+	<ROW>
+		<id>9</id>
+		<cod>4</cod>
+		<nombre>Publicidad</nombre>
+	</ROW>
+
+	<ROW>
+		<id>10</id>
+		<cod>5</cod>
+		<nombre>IRPF</nombre>
+	</ROW>
+
+	<ROW>
+		<id>11</id>
+		<cod>6</cod>
+		<nombre>Otros Ingresos</nombre>
+	</ROW>
+
+	<ROW>
+		<id>12</id>
+		<cod>1</cod>
+		<nombre>Revista y Publicaciones</nombre>
+	</ROW>
+
+	<ROW>
+		<id>13</id>
+		<cod>2</cod>
+		<nombre>Personal</nombre>
+	</ROW>
+
+	<ROW>
+		<id>14</id>
+		<cod>3</cod>
+		<nombre>Local Social</nombre>
+	</ROW>
+
+	<ROW>
+		<id>15</id>
+		<cod>4</cod>
+		<nombre>Actividad Sindical</nombre>
+	</ROW>
+
+	<ROW>
+		<id>16</id>
+		<cod>5</cod>
+		<nombre>Aportaciones</nombre>
+	</ROW>
+
+	<ROW>
+		<id>17</id>
+		<cod>6</cod>
+		<nombre>Material inventariable</nombre>
+	</ROW>
+
+	<ROW>
+		<id>18</id>
+		<cod>7</cod>
+		<nombre>Suministros</nombre>
+	</ROW>
+
+	<ROW>
+		<id>19</id>
+		<cod>8</cod>
+		<nombre>Formación</nombre>
+	</ROW>
+
+	<ROW>
+		<id>20</id>
+		<cod>9</cod>
+		<nombre>Imprevistos-Otros gastos</nombre>
+	</ROW>
+
+	<ROW>
+		<id>21</id>
+		<cod>1</cod>
+		<nombre>Caja</nombre>
+	</ROW>
+
+	<ROW>
+		<id>22</id>
+		<cod>2</cod>
+		<nombre>Bancos</nombre>
+	</ROW>
+
+	<ROW>
+		<id>23</id>
+		<cod>9</cod>
+		<nombre>Remanente</nombre>
+	</ROW>
+</DATA>

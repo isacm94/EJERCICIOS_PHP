@@ -1,0 +1,25 @@
+/*ejercicio35.php*/
+body{
+font-family: verdana;
+}
+
+div{
+text-align: center;
+}
+
+#titulo{
+font-weight: bolder;
+}
+
+/*procesa.php*/
+table, td, th{
+border: 1px solid #000;
+border-collapse: collapse;
+padding: 4px;
+}
+
+/*
+input:focus
+{
+ border-color: red;  
+}*/
